@@ -1,6 +1,6 @@
 Summary: NethServer PostgresSQL 9.4 configuration
 Name: nethserver-postgresql94
-Version: 0.0.1
+Version: 1.0.0
 Release: 1%{?dist}
 License: GPL
 URL: %{url_prefix}/%{name} 
